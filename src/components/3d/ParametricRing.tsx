@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import * as THREE from 'three';
 import { SUBTRACTION, Brush, Evaluator } from 'three-bvh-csg';
 import type { PlacedGem, ProfileShape } from '../../types/cad';

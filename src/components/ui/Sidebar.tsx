@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Sliders, Sparkles, Grid3x3, MousePointer, Diamond, Trash2, DollarSign, CheckCircle2 } from 'lucide-react';
 import type { ProfileShape, MetalType, PaveModeType, PlacedGem } from '../../types/cad';
 

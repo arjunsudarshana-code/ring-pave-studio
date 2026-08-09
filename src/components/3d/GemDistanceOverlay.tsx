@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import { useMemo } from 'react';
 import { Html, Line } from '@react-three/drei';
 import * as THREE from 'three';
 import { Ruler } from 'lucide-react';
